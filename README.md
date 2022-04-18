@@ -12,6 +12,7 @@
   com seu tipo.
   
    - A existencia de um menu de pesquisa (SEARCH) onde poderá pesquisar por nome o seu pokemon.
+   - Ao canto superior direito está o click filter com intuito de filtrar por tipo os pokemons.
 
  <b><p3> Freamworks/Bibliotecas  <b> </p3>
   
