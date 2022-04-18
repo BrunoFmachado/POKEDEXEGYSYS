@@ -34,5 +34,5 @@
       
       
   
-      
+      Observações: Na package API>DITTO foram feitas requisisões para expansão da pokedex (caso necessário), com ela contém ability, force. life e entre outros.
      
